@@ -6,7 +6,7 @@ NIM : 2488010016
 Praktikum eksplorasi data pada dataset Iris:
 pemeriksaan struktur, kualitas data, dan visualisasi.
 ## Isi Repositori
-- PM_TuRi1_EDA_DaniHidayat.ipynb : notebook praktikum
+- PM_Pertemuan_DaniHidayat.ipynb : notebook praktikum
 ## Temuan Utama
 - Tipe Target Menentukan Jenis Machine Learning: Permasalahan prediksi pada data siswa menggunakan pendekatan Klasifikasi karena variabel target (lulus) bersifat kategori diskrit (lulus/tidak lulus), bukan angka kontinu.
 - Fitur Utama yang Digunakan: Jumlah jam_belajar bertindak sebagai fitur numerik tunggal yang digunakan untuk memprediksi probabilitas kelulusan siswa.
