@@ -1,4 +1,4 @@
-# Praktikum 1 - Eksplorasi Data (EDA)
+# Praktikum 1 
 Mata Kuliah: Pembelajaran Mesin (INF62325)
 Nama : Dani Hidayat
 NIM : 2488010016
